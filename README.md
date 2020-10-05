@@ -9,3 +9,9 @@ Repositório com resumos da matéria aprendida durante a disciplina Sistemas Ope
 - [01/09/2020](aula-01-09-20.md)  - cd, finger, history, ls, uptime, whoami, w, who, wall .
 - [08/09/2020](aula-08-09-20.md)  - | , > , cp, cat, cal, date, env, grep, head, locate, mv, nl, rm, rmdir, sort.
 
+## Extras
+
+- [Globing e Quoting](globing-quoting.md) - Exemplo de uso do Globing e Quoting.
+
+
+
